@@ -1,3 +1,5 @@
 # PycharmProjects
-Exercicios Python - Curso em Video
-Todos codigos criados no Curso de Python.
+
+Curso em Video.
+
+Todos codigos de aprendizado criados do Curso de Python.
